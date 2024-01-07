@@ -617,4 +617,7 @@ sketch
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+# db files
+*.db
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,csharp,dotnetcore,react
